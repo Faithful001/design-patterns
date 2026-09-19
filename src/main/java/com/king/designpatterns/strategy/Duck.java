@@ -1,4 +1,4 @@
-package com.king.orderflow.design;
+package com.king.designpatterns;
 
 public abstract class Duck {
     private final String duckType;

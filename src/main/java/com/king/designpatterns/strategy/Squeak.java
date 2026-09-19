@@ -1,4 +1,4 @@
-package com.king.orderflow.design;
+package com.king.designpatterns;
 
 public class Squeak implements QuackBehavior {
     private final String duckType;

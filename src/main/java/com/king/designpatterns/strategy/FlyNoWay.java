@@ -1,4 +1,4 @@
-package com.king.orderflow.design;
+package com.king.designpatterns;
 
 public class FlyNoWay implements FlyBehavior {
     private final String duckType;
