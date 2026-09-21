@@ -1,4 +1,4 @@
-package com.king.designpatterns.observer
+package com.king.designpatterns.observer;
 
 public class WeatherData implements Subject {
     @Override
