@@ -1,4 +1,4 @@
-package com.king.designpatterns;
+package com.king.designpatterns.strategy;
 
 public abstract class Duck {
     private final String duckType;

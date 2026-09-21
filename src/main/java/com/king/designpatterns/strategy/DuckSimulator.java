@@ -1,4 +1,4 @@
-package com.king.designpatterns;
+package com.king.designpatterns.strategy;
 
 public class DuckSimulator {
     public static void main(String[] args) {

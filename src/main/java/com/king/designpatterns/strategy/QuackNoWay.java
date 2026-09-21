@@ -1,4 +1,4 @@
-package com.king.designpatterns;
+package com.king.designpatterns.strategy;
 
 public class QuackNoWay implements QuackBehavior {
     private final String duckType;

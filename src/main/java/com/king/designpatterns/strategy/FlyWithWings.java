@@ -1,4 +1,4 @@
-package com.king.designpatterns;
+package com.king.designpatterns.strategy;
 
 public class FlyWithWings implements FlyBehavior {
     private final String duckType;
